@@ -22,7 +22,3 @@ Here are the downloads for both the template and libraries you will need:
 - Access the GLFW game library [here](https://www.glfw.org/)
 - Find the Vulkan SDK [here](https://www.lunarg.com/vulkan-sdk/)
 - Download the [Vulkan C++ Game Template]()
-
-Visual Studio Code and the C/C++ extensions pack:
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [C/C++ Extensions Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
