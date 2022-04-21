@@ -21,4 +21,4 @@ Here are the downloads for both the template and libraries you will need:
 - Get the GLM library [here](https://github.com/g-truc/glm)
 - Access the GLFW game library [here](https://www.glfw.org/)
 - Find the Vulkan SDK [here](https://www.lunarg.com/vulkan-sdk/)
-- Download the [Vulkan C++ Game Template]()
+- Download the [Vulkan C++ Game Template](https://github.com/PixelDevelops/vulkan-game-template/archive/refs/heads/main.zip)
